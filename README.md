@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![An image of @lauraharoescoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lauraharoescoi)](https://holopin.io/@lauraharoescoi)
 
 <!--
 **lauraharoescoi/lauraharoescoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
