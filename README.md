@@ -11,7 +11,7 @@
 - 🧠 Working with AI-driven solutions in the real estate sector.
 - 🔍 Utilizing Google APIs and containerization with Docker and Docker Compose.
 
-📌 On my profile, you can find some of the projects I've developed during hackathons pinned at the top. Feel free to check them out on my Devpost portfolio too! [[Devpost](https://devpost.com/lauraharoescoi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)].
+📌 On my profile, you can find some of the projects I've developed during hackathons pinned at the top. Feel free to check them out on my [Devpost](https://devpost.com/lauraharoescoi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) portfolio too! .
 
 ---
 
