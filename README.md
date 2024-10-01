@@ -7,7 +7,7 @@
 🌟 My professional experience includes:
 
 - 🚀 Deploying and maintaining backend systems.
-- 🖥️ Backend development with Node.js and Python (FastAPI).
+- 🖥️ Backend development with Node.js and Python
 - 🧠 Working with AI-driven solutions in the real estate sector.
 - 🔍 Utilizing Google APIs and containerization with Docker and Docker Compose.
 
