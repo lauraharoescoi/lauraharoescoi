@@ -1,24 +1,24 @@
 # 👋 Hi there, I'm Laura Haro Escoi!
 
-🎓 I'm a Computer Engineering student at the University of Lleida.
+🎓 I hold a degree in Computer Engineering from the University of Lleida and I'm currently pursuing a Master's in Computer Science at the Autonomous University of Barcelona (UAB).
 
-💡 I love participating in hackathons to improve my programming skills and learn new technologies.
+💼 I work as a Junior Backend Engineer at Restb.ai, a company specializing in computer vision for real estate.
 
-🌟 Currently, I work as a Full-Stack Developer:
+🌟 My professional experience includes:
 
-- 🚀 Deploying applications on a server using Docker and Docker Compose.
-- 🔍 Utilizing Google APIs.
+- 🚀 Deploying and maintaining backend systems.
 - 🖥️ Backend development with Node.js and Python (FastAPI).
-- 🌐 Frontend development with Angular and Ionic.
+- 🧠 Working with AI-driven solutions in the real estate sector.
+- 🔍 Utilizing Google APIs and containerization with Docker and Docker Compose.
 
-📌 On my profile, you can find some of the projects I've developed during hackathons pinned at the top. Feel free to check them out on my Devpost porfolio too! [[Devpost](https://devpost.com/lauraharoescoi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)].
+📌 On my profile, you can find some of the projects I've developed during hackathons pinned at the top. Feel free to check them out on my Devpost portfolio too! [[Devpost](https://devpost.com/lauraharoescoi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)].
 
 ---
 
-📫 How to reach me: 
+📫 How to reach me:
 
 - Email: [lauraha.escoi@gmail.com](lauraha.escoi@gmail.com)
-- LinkedIn: [[www.linkedin.com/in/lauraharoescoi](https://www.linkedin.com/in/lauraharoescoi/)]
+- LinkedIn: [www.linkedin.com/in/lauraharoescoi](https://www.linkedin.com/in/lauraharoescoi/)
 
 ---
 
