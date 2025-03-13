@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm Laura Haro Escoi!
 
-🎓 I hold a degree in Computer Engineering from the University of Lleida and I'm currently pursuing a Master's in Computer Vision at the Autonomous University of Barcelona (UAB).
-
-💼 I work as a Junior Backend Engineer at Restb.ai, a company specializing in computer vision for real estate.
+🎓 I hold a degree in Computer Engineering from the University of Lleida and I work as a Junior Backend Engineer at Restb.ai, a company specializing in computer vision for real estate.
 
 🌟 My professional experience includes:
 
